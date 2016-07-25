@@ -4,6 +4,10 @@
         "source": "/Users/Terry/Documents/src/SlidingMenu/example1/library/src/main/res/layout/slidingmenumain.xml"
     },
     {
+        "merged": "/Users/Terry/Documents/src/sliding/slidingmenu/build/intermediates/res/merged/release/layout/slidingmenumain.xml",
+        "source": "/Users/Terry/Documents/src/sliding/slidingmenu/src/main/res/layout/slidingmenumain.xml"
+    },
+    {
         "merged": "/Users/Terry/Documents/src/SlidingMenu/sliding/slidingmenu/build/intermediates/res/merged/release/layout/slidingmenumain.xml",
         "source": "/Users/Terry/Documents/src/SlidingMenu/sliding/slidingmenu/src/main/res/layout/slidingmenumain.xml"
     }
