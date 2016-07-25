@@ -1,6 +1,5 @@
 #SlidingMenu
-forked from [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
-This project is intended merely to help you add SlidingMenu with gradle
+forked from [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) , this project is intended merely to help us add SlidingMenu with gradle
 ###An Android library that allows you to easily create applications with slide-in menus.
 <img src="pic/1.png" width = "400" />
 <img src="pic/2.png" width = "400" />
