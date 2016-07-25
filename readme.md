@@ -14,7 +14,7 @@ allprojects {
 ```
 ##### step 2
 ```gradle
-compile 'com.github.yunTerry:sliding:3.0.0'
+compile 'com.github.yunTerry:SlidingMenu:3.0.0'
 ```
 
 ###Add SlidingMenu
