@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         slidingleft.setMenu(R.layout.slidingleft);
         slidingleft.setMode(SlidingMenu.LEFT);
         slidingleft.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
-        slidingleft.setBehindOffsetRes(120);
+        slidingleft.setBehindOffsetRes(R.dimen.slidingmenu_offset);
         slidingleft.setFadeDegree(0.35f);
         slidingleft.attachToActivity(this, SlidingMenu.SLIDING_CONTENT);
     }
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         slidingright.setMenu(R.layout.slidingright);
         slidingright.setMode(SlidingMenu.RIGHT);
         slidingright.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
-        slidingright.setBehindOffsetRes(120);
+        slidingright.setBehindOffsetRes(R.dimen.slidingmenu_offset);
         slidingright.setFadeDegree(0.35f);
         slidingright.attachToActivity(this, SlidingMenu.SLIDING_CONTENT);
     }
