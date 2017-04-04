@@ -1,8 +1,8 @@
-#SlidingMenu
-###An Android library that allows you to easily create applications with slide-in menus.
+# SlidingMenu
+### An Android library that allows you to easily create applications with slide-in menus.
 <img src="pic/1.png" width = "400" />
 <img src="pic/2.png" width = "400" />
-###Add the dependency
+### Add the dependency
 ##### step 1
 ```gradle
 allprojects {
@@ -17,7 +17,7 @@ allprojects {
 compile 'com.github.yunTerry:SlidingMenu:3.0.0'
 ```
 
-###Add SlidingMenu
+### Add SlidingMenu
 ```java
 SlidingMenu slidingleft = new SlidingMenu(this);
 slidingleft.setMenu(R.layout.slidingleft);

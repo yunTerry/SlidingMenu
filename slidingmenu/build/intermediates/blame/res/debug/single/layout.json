@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/mac/Documents/xure/SlidingMenu/slidingmenu/build/intermediates/res/merged/debug/layout/slidingmenumain.xml",
+        "source": "/Users/mac/Documents/xure/SlidingMenu/slidingmenu/src/main/res/layout/slidingmenumain.xml"
+    },
+    {
         "merged": "/Users/Terry/Documents/src/SlidingMenu/sliding/slidingmenu/build/intermediates/res/merged/debug/layout/slidingmenumain.xml",
         "source": "/Users/Terry/Documents/src/SlidingMenu/sliding/slidingmenu/src/main/res/layout/slidingmenumain.xml"
     },

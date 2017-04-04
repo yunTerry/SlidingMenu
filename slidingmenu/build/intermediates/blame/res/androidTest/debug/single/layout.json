@@ -10,5 +10,9 @@
     {
         "merged": "/Users/Terry/Documents/src/SlidingMenu/sliding/slidingmenu/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml",
         "source": "/Users/Terry/Documents/src/SlidingMenu/sliding/slidingmenu/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/xure/SlidingMenu/slidingmenu/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml",
+        "source": "/Users/mac/Documents/xure/SlidingMenu/slidingmenu/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml"
     }
 ]
